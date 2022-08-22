@@ -1,4 +1,4 @@
-# LINKTREE
+# SOCIALTREE
 
 https://diego-musashi.github.io/SocialTree/
 
