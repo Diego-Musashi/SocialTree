@@ -18,10 +18,10 @@
 
 /*----- BASE -----*/
 :root {
-    --background: linear-gradient(120deg, #bd0a96, #0a898d);
+    --background: linear-gradient(120deg, #805075, #0a898d);
     --color: #24020d;
     --link: #E5E5E5;
-    --box-link: linear-gradient(to bottom right, #4affde 0%, #5b9dff 40%, #9f6bff 60%, #ff34d2 100%);
+    --box-link: linear-gradient(to bottom right, #4affde 0%, #5b9dff 40%, #9f6bff 60%, #c94bad 100%);
 
     /*dark*/
     --background-dark: linear-gradient(120deg, #1a0114, #023638);
